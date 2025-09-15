@@ -1,0 +1,9 @@
+Flask
+flask-cors
+numpy
+opencv-python
+Pillow
+tensorflow
+gunicorn
+h5py
+scipy
